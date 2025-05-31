@@ -19,6 +19,13 @@ The goal of this project is to perform a detailed EDA on a diabetes-related data
 - Smoking and Alcohol consumption
 - Gender, Ethnicity
 
+## 🔍 Questions asked:
+- What features are most related to diabetes markers (glucose, HbA1c)?
+- Does BMI or waist circumference affect glucose levels?
+- Are there lifestyle factors (activity, alcohol, smoking) influencing diabetes?
+- Do age, sex, or ethnicity groups show differences?
+- Are there anomalies or outliers in health metrics?
+
 ## 🧠 Key EDA Tasks Performed
 
 - ✅ Asked meaningful questions about the dataset
@@ -43,6 +50,6 @@ The goal of this project is to perform a detailed EDA on a diabetes-related data
 - Data cleaning revealed category inconsistencies
 - Age, BMI, and glucose levels showed significant variation by lifestyle factors.
 
-## Dataset used
+## Final EDA
 - <a href="https://github.com/Neeharika921/CodeAlpha_EDA/blob/main/dataset1.ipynb">Dataset</a>
   
