@@ -7,4 +7,4 @@ Exploratory Data Analysis on Diabetes Dataset from Kaggle
 - Data cleaning steps
 
 # Dataset:
-[Link to Kaggle dataset](https://www.kaggle.com/Diabetes_prediction_dataset/) 
+[Link to Kaggle dataset](https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset) 
