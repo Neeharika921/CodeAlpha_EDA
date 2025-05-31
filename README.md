@@ -42,3 +42,7 @@ The goal of this project is to perform a detailed EDA on a diabetes-related data
 - No strong correlation found between glucose levels and physical activity
 - Data cleaning revealed category inconsistencies
 - Age, BMI, and glucose levels showed significant variation by lifestyle factors.
+
+## Dataset used
+- <a href="https://github.com/Neeharika921/CodeAlpha_EDA/blob/main/dataset1.ipynb">Dataset</a>
+  
