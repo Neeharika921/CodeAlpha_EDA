@@ -50,6 +50,17 @@ The goal of this project is to perform a detailed EDA on a diabetes-related data
 - Data cleaning revealed category inconsistencies
 - Age, BMI, and glucose levels showed significant variation by lifestyle factors.
 
+## 🗂️ Final Notebook
+
+- [View Notebook on Kaggle](https://www.kaggle.com/code/kuppilineeharika/dataset1/edit)  
+- [Download Notebook from GitHub](https://github.com/Neeharika921/CodeAlpha_EDA/blob/eeb6d4e6cc09e4899e50a931c8b56bd7627c3606/dataset1.ipynb)
+
+
 ## Final EDA
 - <a href="https://github.com/Neeharika921/CodeAlpha_EDA/blob/main/dataset1.ipynb">Dataset</a>
+
+## 📬 Connect With Me
+
+- GitHub: [Neeharika921](https://github.com/Neeharika921)  
+- Kaggle: [kuppilineeharika](https://www.kaggle.com/kuppilineeharika)
   
